@@ -23,3 +23,6 @@ main()
 	}
 }
 printf(\n "hello world");
+rintf(\n "hello world")
+	Printf(\n "hello world")'
+	Pintf(\n "hello world")
