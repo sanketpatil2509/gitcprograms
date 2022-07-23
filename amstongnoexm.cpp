@@ -22,4 +22,4 @@ main()
 		printf("\n is not amstorng number");
 	}
 }
-
+printf(\n "hello world");
